@@ -15,7 +15,7 @@
   <strong>Arxiv (2025)</strong>. [[Arxiv]](https://arxiv.org/abs/2509.13040)
 
 - Dongxu Chang, <strong>Qingqing Peng</strong>, Guanghui Wang, Guiying Yan. High Throughput QC-LDPC Decoder With Optimized Schedule Policy in Layered Decoding.
-  <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.16957)
+  <strong>Arxiv (2025)</strong>. [[Arxiv]](https://arxiv.org/abs/2505.19027)
   
 - <strong>Qingqing Peng</strong>, Dongxu Chang, Guiying Yan, Guanghui Wang. Analysis of Efficient Scheduling in Layered Decoding of GLDPC Codes.
 
