@@ -5,11 +5,11 @@
 - Dongxu Chang, <strong>Qingqing Peng</strong>, Guanghui Wang*, Guiying Yan. A Cross-Layer Scheduling Method for Pipelined Layered Multi-Edge Type QC-LDPC Decoder With Better Conflict Resolution.
   <strong>IEEE Communications Letters (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10971375)
 
-- Yipeng Zhang, <strong>Longlong Li</strong>, and Kelin Xia*. Rhomboid Tiling for Geometric Graph Deep Learning.
-  <strong>International Conference on Machine Learning (ICML 2025)</strong>. [[Paper]](https://openreview.net/forum?id=lTZEAqL1R1)
+- Dongxu Chang, <strong>Qingqing Peng</strong>, Guanghui Wang, Guiying Yan, Dawei Yin*. On the Gap to Channel Capacity of Generalized Low-Density Parity-Check Codes.
+  <strong>IEEE Open Journal of the Communications Society(2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10909182)
 
-- Bingqing Han, Yipeng Zhang, <strong>Longlong Li</strong>, Xinqi Gong*, and Kelin Xia*. TopoQA:a topological deep learning-based approach for protein complex structure interface quality assessment.
-  <strong>Briefings in Bioinformatics (2025)</strong>. [[Paper]](https://academic.oup.com/bib/article/26/2/bbaf083/8068116?login=false)
+- <strong>Qingqing Peng</strong>, Dawei Yin*, Dongxu Chang, Yuan Li, Huazi Zhang, Guiying Yan, Guanghui Wang. On the Performance of Low-complexity Decoders of LDPC Codes.
+  <strong>Arxiv (2024)</strong>. [[Arxiv]](https://arxiv.org/abs/2403.19266)
 
 - <strong>Longlong Li</strong>, Cunquan Qu*, Guanghui Wang. Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing.
   <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2505.15015?)
