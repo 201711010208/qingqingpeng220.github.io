@@ -3,11 +3,11 @@
   School of Mathematics, Shandong University(Discussion Seminar)  
   Role: Teaching Assistant
 
-- Modern Coding Theory (Discussion Seminar 2023–2024)
-School of Mathematics, Shandong University(Discussion Seminar)
+- Modern Coding Theory (Discussion Seminar 2023–2024)  
+School of Mathematics, Shandong University(Discussion Seminar)  
 Role: Teaching Assistant
 
-- Information Theory and Reliable Communication (2022)
-School of Mathematics, Shandong University(Discussion Seminar)
+- Information Theory and Reliable Communication (2022)  
+School of Mathematics, Shandong University(Discussion Seminar)  
 Role: Teaching Assistant
   
