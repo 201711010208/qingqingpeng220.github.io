@@ -1,9 +1,11 @@
 ### Talks
 
--	The 11th Cross-Strait Conference on Graph Theory and Combinatorics (Online)  
-  Talk: “K-Core Decomposition Algorithm”,  Aug.19-21, 2021  
+-	2022 ICT Mathematics Foundations Workshop (Yantai, China)
+Talk: “Introduction to Polar Codes”, Aug. 10–17, 2022
  	
-- Mathematical Foundations of Communication Seminar (Hangzhou, China)  
-  Talk: “Spatially Coupled Codes”, Oct.27-28, 2019
+- 2023 ICT Mathematics Foundations Workshop (Yunnan, China)
+Talk: “On the Trade-off Between Performance and Complexity of LDPC Codes”, Aug. 13–19, 2023
 
+- 2025 IEEE Information Theory Workshop (Sydney, Australia)
+Talk: “On the Convergence Speed of Spatially Coupled LDPC Ensembles Under Window Decoding”, Sep. 30, 2025
 
